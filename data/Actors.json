@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Amren_battler","characterIndex":0,"characterName":"Amren_walk","classId":1,"equips":[0,0,2,3,0],"faceIndex":0,"faceName":"Amren","traits":[],"initialLevel":1,"maxLevel":99,"name":"Amren","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Berwyn_battle","characterIndex":0,"characterName":"berwyn_walk","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Berwyn","traits":[],"initialLevel":30,"maxLevel":99,"name":"Berwyn's Spirit","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Behemoth","characterIndex":0,"characterName":"Amren_walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Behemoth_head","traits":[{"code":11,"dataId":1,"value":1},{"code":41,"dataId":1,"value":1}],"initalLevel":50,"maxLevel":99,"name":"Behemoth","nickname":"","note":"","profile":"","initialLevel":50}
+]
